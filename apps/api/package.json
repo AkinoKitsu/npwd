@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "@npwd/database": "workspace:^1.0.0",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mysql2": "^3.1.2"
+    "express": "^4.20.0",
+    "mysql2": "^3.9.8"
   }
 }
